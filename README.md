@@ -21,7 +21,7 @@ Para utilizar este código lo único que debes hacer es:
      apiKey: "TU_API_KEY",
      authDomain: "TU_DOMAIN.firebaseapp.com"
 
-2. Añadir un scrip similar a este "<script type="module" src="./backend.js"></script>" casi al final de tu archivo html justo antes de " </body> "  para conectar el back con el front 
+2. Añadir un scrip similar a este "<script type="module" src="./backend.js"></script>" casi al final de tu archivo html justo antes de cerrar el </body> " </body> "  para conectar el back con el front 
 
 3. Habilita Realtime Database en la consola de Firebase.
 
